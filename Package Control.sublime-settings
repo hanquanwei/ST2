@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"4GL",
+		"All Autocomplete",
+		"Alternative Autocompletion",
+		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"FileSystem Autocompletion",
+		"HTML5",
+		"jQuery",
+		"JsFormat",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"RubyFormat",
+		"RubyTest",
+		"SublimeGoogle",
+		"Xdebug"
+	],
+	"repositories":
+	[
+		"https://github.com/alexstaubo/sublime_text_alternative_autocompletion",
+		"https://github.com/sergeche/zen-coding"
+	]
+}
